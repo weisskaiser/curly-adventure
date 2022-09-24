@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curly-adventure/static/css/main.073c9b0a.css",
+    "main.js": "/curly-adventure/static/js/main.5cb6b6dd.js",
+    "index.html": "/curly-adventure/index.html",
+    "main.073c9b0a.css.map": "/curly-adventure/static/css/main.073c9b0a.css.map",
+    "main.5cb6b6dd.js.map": "/curly-adventure/static/js/main.5cb6b6dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5cb6b6dd.js"
+  ]
+}
